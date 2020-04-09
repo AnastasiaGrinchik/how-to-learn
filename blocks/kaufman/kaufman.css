@@ -1,0 +1,25 @@
+@import url(./../section-title/section-title.css);
+@import url(./../section-subtitle/section-subtitle.css);
+@import url(./../table/table.css);
+@import url(./../table/__cell/table__cell.css);
+@import url(./../table/__heading/table__heading.css);
+@import url(./../table/__text/table__text.css);
+@import url(./../table/__text/text-sign.css);
+@import url(./__triangle/kaufman__triangle.css);
+
+@import url(./font-kaufman.css);
+
+@import url(./../section-title/_theme/section-subtitle_theme_dark.css);
+@import url(./../section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(./../table/_theme/table_theme_dark.css);
+@import url(./../table/_cell/table__cell_theme_dark.css);
+
+
+
+.kaufman {
+    position: relative;
+    padding-bottom: 90px;
+    padding-top: 90px;
+    overflow: hidden;
+    background-color: #1F1F1F;
+}

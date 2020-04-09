@@ -1,0 +1,28 @@
+.resources__logo {
+    width: 270px;
+    height: 38px;
+}
+
+.resources__logo:first-of-type {
+    background-image: url(./../../../images/resources-arzamas.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.resources__logo:nth-of-type(2) {
+    background-image: url(./../../../images/resources-n1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.resources__logo:nth-of-type(3) {
+    background-image: url(./../../../images/resources-strelka.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.resources__logo:last-of-type {
+    background-image: url(./../../../images/resources-polka.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
